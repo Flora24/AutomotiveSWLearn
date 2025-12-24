@@ -15,9 +15,10 @@ You are done when:
 -->Threads start/stop reliably
 -->README explains architectural decisions
 
-*Here the required steps to master the project if you gonna re-code:*
+  *Here the required steps to master the project if you gonna re-code:*
 
 **1. Functional Requirements (What it MUST do)**
+
 FR-1: Generic Sensor Interface
 FR-2: Sensor Types
 
@@ -34,6 +35,7 @@ FR-4: Data Ownership & Memory Safety
 FR-5: Sensor Manager
 
 **2. Non-Functional Requirements (Equally Important)**
+
 NFR-1: Modern C++
 C++17 minimum
 
